@@ -8,3 +8,4 @@ Os recursos estudados para desenvolver o scrip:
 6 - Iniciando com subprocess
 7 - Iniciando com datetime
 8 - Iniciando com Modularização dos scrips
+![layout](https://user-images.githubusercontent.com/114777198/195163075-3f0443e4-bf66-4008-b125-67fb1a4edf27.png)
