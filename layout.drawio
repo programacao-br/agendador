@@ -1,0 +1,109 @@
+<mxfile host="65bd71144e">
+    <diagram id="COvdemJv3tM_wSLyJIm1" name="Page-1">
+        <mxGraphModel dx="830" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#006600" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="40" width="380" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Selecione os meses que deve rodar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="10" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Selecione os dias da semana" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="96" y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="101" y="120" width="229" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Jan - Fev - Mar - Abr - Mai - Jun - Jul - Ago - Set - Out - Nov - Dez" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="101" y="46" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Seg - Ter - Qua - Qui - Sex - Sab - Dom" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="108" y="125" width="217" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="36" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Todos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="15" y="41" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="9" y="118" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Todos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="14" y="123" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="101" y="200" width="379" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="00-01-02-03-04-05-06-07-08-09-10-11-12-13-14-15-16-17-18-19-20-21-22-23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="177" y="197" width="230" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="8" y="198" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Todos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="13" y="203" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Selecione os horarios do dia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="177" width="170" height="23" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Repetir a cada:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="248.5" y="261" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Informe o minuto que ira iniciar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="258" width="180" height="23" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="8" y="281" width="232" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="249" y="281" width="232" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="344" y="445" width="65" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="416" y="445" width="65" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Salvar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="346.5" y="445" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Deletar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="419" y="445" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Lista de agendamentos" style="swimlane;" parent="1" vertex="1">
+                    <mxGeometry x="7" y="500" width="473" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="8" y="360" width="372" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Nome&amp;nbsp; da tarefa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="8" y="418" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="8" y="438" width="312" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Tarefa a ser executada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="8" y="340" width="141" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="360" width="80" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Localizar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="364.5" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="344" y="120" width="136" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Dia especifico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="95" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;h1&gt;Objetivo&lt;/h1&gt;&lt;p&gt;Desenvolver um script que permita criar tarefas agendadas com a maior flexibilidade de datas possivel.&lt;br&gt;&lt;/p&gt;&lt;p&gt;As possibilidades de agendamentos são:&lt;/p&gt;&lt;p&gt;1-Qualquer mês do ano atual ou todos.&lt;/p&gt;&lt;p&gt;2-Qualquer dia da semana ou todos, ou dias especificos.&lt;/p&gt;&lt;p&gt;3-Qualquer hora e minuto do dia ou todas.&lt;/p&gt;&lt;p&gt;4-Repetir apenas uma vez, ou a cada minuto informado (1 a 59)&lt;/p&gt;&lt;p&gt;Esse script foi testado apenas em ambiente windows, e faz parte do meu estudo da linguagem python, embora funcional ainda tem muito coisa para melhorar.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="10" width="280" height="630" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
